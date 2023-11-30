@@ -1,2 +1,2 @@
 # ml
-this is the basic ml project.
+This is the basic Machine Learning  project  for beginners including models and Datasets.
